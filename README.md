@@ -194,23 +194,7 @@ CREATE TABLE appointments (
 );
 ```
 
-## 🌐 Deployment
 
-### Backend (Render.com)
-1. Create account on [render.com](https://render.com)
-2. New Web Service → Connect GitHub repo
-3. Root Directory: `backend`
-4. Build Command: `npm install`
-5. Start Command: `npm start`
-6. Add environment variable: `JWT_SECRET`
-
-### Frontend (Vercel)
-1. Create account on [vercel.com](https://vercel.com)
-2. Import GitHub repo
-3. Root Directory: `frontend`
-4. Add environment variable: `REACT_APP_API_URL` (your Render URL)
-
-## 📄 License
 
 This project is created for educational purposes as part of a Web Programming course.
 
