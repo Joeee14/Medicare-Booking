@@ -1,7 +1,7 @@
 import React, { useState, useEffect, createContext, useContext } from 'react';
 import { Routes, Route, Link, useLocation, useNavigate } from 'react-router-dom';
 
-const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:5050';
+const API_BASE = process.env.REACT_APP_API_URL || 'https://medicare-booking-app.onrender.com';
 
 // ============== AUTH CONTEXT ==============
 const AuthContext = createContext(null);
