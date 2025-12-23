@@ -198,7 +198,5 @@ CREATE TABLE appointments (
 
 This project is created for educational purposes as part of a Web Programming course.
 
-## 👥 Authors
 
-- Your Name - [GitHub Profile](https://github.com/YOUR_USERNAME)
 
